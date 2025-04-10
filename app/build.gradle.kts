@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "kr.co.project.doneai"
+    namespace = "kr.co.project.donetodo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "kr.co.project.doneai"
+        applicationId = "kr.co.project.donetodo"
         minSdk = 29
         targetSdk = 34
         versionCode = 1

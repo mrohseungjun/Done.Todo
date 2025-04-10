@@ -1,4 +1,4 @@
-package kr.co.project.doneai.ui.component
+package kr.co.project.donetodo.ui.component
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
@@ -13,8 +13,8 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
-import kr.co.project.doneai.R
-import kr.co.project.doneai.ui.theme.DoneAiTheme
+import kr.co.project.donetodo.R
+import kr.co.project.donetodo.ui.theme.DoneAiTheme
 
 @Composable
 fun BottomNavigationBar(currentRoute: String = "home", onNavigate: (String) -> Unit = {}) {

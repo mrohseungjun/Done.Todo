@@ -1,4 +1,4 @@
-package kr.co.project.doneai.ui.theme
+package kr.co.project.donetodo.ui.theme
 
 import android.app.Activity
 import android.os.Build

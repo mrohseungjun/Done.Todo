@@ -1,4 +1,4 @@
-package kr.co.project.doneai
+package kr.co.project.donetodo
 
 import org.junit.Test
 

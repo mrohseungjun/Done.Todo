@@ -1,4 +1,4 @@
-package kr.co.project.doneai
+package kr.co.project.donetodo
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import kr.co.project.doneai.ui.theme.DoneAiTheme
+import kr.co.project.donetodo.ui.theme.DoneAiTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,5 @@
-package kr.co.project.doneai.ui.screen.HomeScreen
+package kr.co.project.donetodo.ui.screen.HomeScreen
+
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -26,9 +27,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import kr.co.project.doneai.R
-import kr.co.project.doneai.ui.component.BottomNavigationBar
-import kr.co.project.doneai.ui.theme.DoneAiTheme
+import kr.co.project.donetodo.R
+import kr.co.project.donetodo.ui.theme.DoneAiTheme
 
 @Composable
 fun HomeScreenRoot(){

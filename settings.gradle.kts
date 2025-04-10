@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "DoneAi"
+rootProject.name = "DoneTodo"
 include(":app")
